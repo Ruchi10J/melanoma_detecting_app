@@ -1,5 +1,4 @@
-# flutter_application_8
-
+Melanoma Skin Cancer Detecting Application
 A new Flutter project.
 
 ## Getting Started
