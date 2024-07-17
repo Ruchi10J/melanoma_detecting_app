@@ -6,3 +6,4 @@ This melanoma detection app is designed to analyze skin lesions and provide a pr
 
 
 ![t4](https://github.com/user-attachments/assets/fe2e36eb-edc7-4191-bd08-b126251dee98)
+![t9](https://github.com/user-attachments/assets/3e561264-1918-406f-a2a7-5cdb833494be)
